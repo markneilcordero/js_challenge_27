@@ -1,4 +1,4 @@
-### Documentation for Challenge 27: Hangman Game
+### Challenge 27: Hangman Game
 
 ---
 
