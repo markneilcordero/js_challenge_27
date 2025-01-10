@@ -57,7 +57,3 @@ Wrong guess! You lose a life.
 Word to guess: *E***  
 You have 4 lives left.  
 ```
-
----
-
-Let me know if you'd like me to refine anything else!
